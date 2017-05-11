@@ -1,0 +1,21 @@
+{
+    "name": "garung/custompostype",
+    "description": "Create custom post type for wordpres",
+    "type": "library",
+    "require": {
+        "php": ">5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garung",
+            "email": "daudq.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "GARUNG\\": ""
+        }
+    }
+}
